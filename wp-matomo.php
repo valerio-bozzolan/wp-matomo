@@ -6,8 +6,8 @@ Description: Absolutely lightweight and secure plugin to use an already existing
 Version: 0.0.1
 Author: Valerio Bozzolan
 Author URI: https://boz.reyboz.it/
-License: GPL3
-License URI: http://www.gnu.org/licenses/gpl.html
+License: WTFPL
+License URI: http://www.wtfpl.net/txt/copying/
 */
 
 defined( 'MATOMO_PATH' ) or exit;
