@@ -3,7 +3,7 @@
 Plugin Name: Matomo Stats
 Plugin URI: https://matomo.org/
 Description: Absolutely lightweight and secure plugin to use an already existing Matomo instance for your WordPress site and have privacy friendly stats. In short: Google Analytics MERDA. The configuration is inside your WP config file.
-Version: 1.2.0
+Version: 0.0.1
 Author: Valerio Bozzolan
 Author URI: https://boz.reyboz.it/
 License: GPL3
