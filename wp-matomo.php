@@ -42,6 +42,7 @@ $js = <<<EOF
 		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 	})();
 	</script>
+	<noscript><p style="position:fixed; top:0;"><img src="$pathmatomo.php?idsite=$site&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 	<!-- end Matomo -->
 EOF;
 
