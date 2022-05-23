@@ -1,4 +1,4 @@
-# WP-Matomo &ndash; Suckless WordPress-Matomo integration
+# WP-Matomo & Suckless WordPress-Matomo integration
 
 Features:
 * **NOT SUITABLE FOR END-USER PEOPLE, MUST BE INSTALLED BY A DEVELOPER**
